@@ -89,9 +89,6 @@ I know I'll be Gr8 one day because I BELIEVE IN MYSELF and I know I will.
 
 ---
 
-### 🚀 Fun Fact:
-> **"I’m not the Hokage yet, but believe it, I’ll be something great."** 🦊🔥  
-
 ---
 
 ⭐ _"With great power comes great responsibility, and with great code comes great debugging."_  
